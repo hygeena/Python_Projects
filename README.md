@@ -1,5 +1,4 @@
 # Python_Projects
 
-100 days of Python
+I am a beginner-level programmer in Python and created this repository to share my programs.
 
-# My first edit
